@@ -13,7 +13,7 @@ public class Generator {
     }
 
     public void mainLoop() {
-        System.out.println("Welcome to Ziz Password Services :)");
+        System.out.println("Welcome to Harshit's password generator :)");
         printMenu();
 
         String userOption = "-1";
